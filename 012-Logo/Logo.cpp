@@ -1,8 +1,7 @@
 /*
  * Autor: Carlos Andres Delgado. 
  * Fecha: 26-Marzo-2018
- * Descripción: Solución del problema https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=579
- * Estrategia: Convertir todo a grados y luego comparar
+ * Descripción: Solución del problema https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=11505
  */
 
 #include <map>
